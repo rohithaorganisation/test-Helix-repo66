@@ -1,0 +1,21 @@
+Sample JD :
+Job Description:
+Strong technical developer with 3-5years of development experience in Python ,Counterparty risk, collateral management, funding risk, or OTC derivatives experience desirable.
+Required Skills
+•           The ability to effectively communicate within a multi-disciplined team, across multiple locations and time zones, and to interact with demanding business users.
+•           A flexible, hardworking and "can do" attitude; comfortable working in a fast paced environment with frequent release cycles and rapidly changing priorities.
+•           Seasoned in Python.
+•           Experience architecting/designing end-to-end application flows.
+•           Strong problem solving skills.
+•           Work in Global Markets and/or Risk Management.
+•           Strong understanding of regulatory rules and applications.
+•           Exposure to Agile methodologies.
+The candidate should be a self-starter who enjoys programming, can work as part of a global team and who has successfully delivered significant enterprise-scale projects to end-users previously.
+Desirable skills
+•           Python and experience with Python's core libraries/modules (just so you know, we use Python 3.x)
+•           Python datasets (lists, sets, tuples, dictionaries, etc) knowledge/experience, ideally large data sets.
+•           Strong knowledge of building RESTful API's using Python. •          Relational database experience (SQL, •	    Oracle, MySQL, PostgreSQL, SQLite, SQLAlchemy, etc)
+•           Experience creating and executing automation scripts using Python
+•           Knowledge of documentation processes. Understanding of the importance of documentation
+•           Experience and in-depth knowledge with Linux-based development.
+
